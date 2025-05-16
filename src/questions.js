@@ -15,7 +15,7 @@ const questions = {
       { id: 1, question: "Solve: 2x + 3 = 7", answer: "2" },
       { id: 2, question: "What is the value of π (approx)?", answer: "3.14" },
       { id: 3, question: "Simplify: (x + 2)(x - 3)", answer: "x^2 - x - 6" },
-      { id: 4, question: "Area of circle formula with radius 7?", answer: "154" },
+      { id: 4, question: "Area of circle with radius 7?", answer: "154" },
       { id: 5, question: "7 factorial (7!)?", answer: "5040" },
       { id: 6, question: "Slope formula?", answer: "y2-y1/x2-x1" },
       { id: 7, question: "0.75 as a fraction?", answer: "3/4" },
@@ -31,6 +31,7 @@ const questions = {
       { id: 6, question: "Adjective in: fast, run, speed?", answer: "fast" },
       { id: 7, question: "'The wind whispered' is what figure of speech?", answer: "Personification" },
       { id: 8, question: "What is a compound sentence?", answer: "Two" },
+      
     ],
   };
   
